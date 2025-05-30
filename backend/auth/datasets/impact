@@ -1,0 +1,7 @@
+{
+  "datasets": [
+    {"id": "ds1", "size_mb": 120, "num_rows": 10000, "num_columns": 10},
+    {"id": "ds2", "size_mb": 2000, "num_rows": 500000, "num_columns": 50}
+  ],
+  "method": "naive"
+}
